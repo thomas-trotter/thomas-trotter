@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 About Me  
-I'm an MSci Artificial Intelligence student at King's College London, with interests in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm seeking summer internship opportunities for 2026 to grow my skills in a hands-on environment.
+I'm an MSci Artificial Intelligence student at King's College London, with interests in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm seeking summer internship opportunities for 2027 to grow my skills in a hands-on environment.
 
 ---
 ## 💻 Projects
